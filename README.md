@@ -9,7 +9,7 @@
 # 目录结构描述
     ├── main.py             // main work in python
     
-    ├── img_dir             // DDS核心文件库，包含各版本的include、src、lib文件夹，方便合并
+    ├── img_dir             // 测试图片集
     
     │   ├── Calculus.jpg
 
