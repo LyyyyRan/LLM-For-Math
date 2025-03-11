@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct 01 19:21:29 2024
+
+@author: lenovo
+"""
+
 from openai import OpenAI
 import base64
 from PIL import Image
